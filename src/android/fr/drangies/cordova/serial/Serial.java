@@ -210,7 +210,7 @@ public class Serial extends CordovaPlugin {
 				else {
 					// no available drivers
 					Log.d(TAG, "No device found!");
-					callbackContext.error("No device found!");
+					callbackContext.error("No device found. Using usb lib version 3.3.0!");
 				}
 			}
 		});

@@ -1,9 +1,9 @@
 {
-  "name": "cordovarduino",
+  "name": "p8g-cordovarduino",
   "version": "0.0.10",
   "description": "Cordova plugin to communicate with the android USB serial port",
   "cordova": {
-    "id": "cordovarduino",
+    "id": "p8g-cordovarduino",
     "platforms": [
       "android",
       "ubuntu"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xseignard/cordovarduino.git"
+    "url": "git+https://github.com/polarising-oss/cordovarduino.git"
   },
   "keywords": [
     "serial",
